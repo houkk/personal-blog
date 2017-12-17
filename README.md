@@ -9,5 +9,5 @@
      repo: {your github.io repo}
 ```
 3. hexo clean
-4. hexo generate -g
-5. hexo deploy -g
+4. hexo generate
+5. hexo deploy

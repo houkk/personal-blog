@@ -7,12 +7,12 @@ title: kk
 subtitle:
 description:
 author: kk Hou
-language: zh-Hans
+language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.hkprivate.cn
+url: https://ryanluoxu.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -85,8 +85,8 @@ archive:
   title: houkk
   description: test description
 
-# menu:
-#   home: /
-#   about: /about
-#   archives: /archives
-#   tags: /tags
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
