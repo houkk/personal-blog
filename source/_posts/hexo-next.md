@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: hexo-next
 date: 2017-12-23 16:15:40
 categories: hexo
 tags: [hexo, next]
